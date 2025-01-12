@@ -74,7 +74,7 @@ Full-stack developer and AI engineer passionate about building innovative soluti
 
 <div align="center">
   <h4>@Chirag__Patil</h4>
-  <img src="https://leetcard.jacoblin.cool/Chirag__Patil?theme=dark&font=Fira%20Code&ext=heatmap" width="98%" alt="LeetCode stats"/>
+  <img src="https://leetcard.jacoblin.cool/chirag-patil625?theme=dark&font=Fira%20Code&ext=heatmap" width="98%" alt="LeetCode stats"/>
 </div>
 
 ## 📫 Let's Connect
